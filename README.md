@@ -49,9 +49,6 @@ This project analyzes loan data to identify key trends, assess risk factors, and
   ```bash
    jupyter notebook LoanCaseStudy.ipynb
 
-📝 Conclusion
-This study provides valuable insights into loan approval and default risks. By leveraging data-driven techniques, financial institutions can enhance their decision-making processes and minimize financial risks.
-
 
 
 
