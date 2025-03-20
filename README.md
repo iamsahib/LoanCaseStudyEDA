@@ -51,5 +51,8 @@ This study provides valuable insights into loan approval and default risks. By l
 
 
 
+📩 Connect with Me
+🔗 LinkedIn - sahib-khan-dataanalyst | 🐦 Twitter -Iamsahib__001 | 📧 Email: sahibkhan489@gmail.com
+
 
 
